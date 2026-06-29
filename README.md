@@ -10,27 +10,30 @@ Building complete software systems while learning one project at a time.
 
 ---
 
+
 I'm passionate about understanding how software works from the user interface to the backend.
 
 Currently learning Linux, software architecture and building full-stack applications through real-world projects.
 
 <div align="center">
 
-<table width="100">
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
+
 <table>
 <tr>
 <td>
 
-## 📚learning Journey
+## 📚 Learning Journey
 
 Documentation
 
 Research
 
 University Projects
+
 <br>
 
 <a href="#">Visit →</a>
@@ -38,9 +41,11 @@ University Projects
 </td>
 </tr>
 </table>
+
 </td>
 
 <td width="4%"></td>
+
 <td width="48%" valign="top">
 
 <table>
@@ -60,11 +65,11 @@ Case Studies
 <a href="#">Visit →</a>
 
 </td>
-
 </tr>
 </table>
 
 </td>
+
 </tr>
 </table>
 
