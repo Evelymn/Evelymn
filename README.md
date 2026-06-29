@@ -15,7 +15,7 @@ I'm passionate about understanding how software works from the user interface to
 Currently learning Linux, software architecture and building full-stack applications through real-world projects.
 
 
-<table>
+<table="center>
 <tr>
 
 <td width="50%">
