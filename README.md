@@ -1,43 +1,50 @@
+<div align="center">
 
-<td width="68%" valign="top">
-
-# 👋 Hi, I'm Eve
+# 👋 Hi, I'm Evelyn Carolina
 
 ### Computer Science Student
 
+Building complete software systems while learning one project at a time.
+
+</div>
+
+---
+
 I'm passionate about understanding how software works from the user interface to the backend.
 
-Currently I'm learning Linux, software architecture and building complete applications while documenting my journey.
+Currently learning Linux, software architecture and building full-stack applications through real-world projects.
 
-<br>
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## 📚 Learning Journey
 
-My academic portfolio contains:
+Documentation
 
-- Research
-- University Projects
-- Documentation
-- Learning Notes
+Research
 
-	> 🔗 **Coming Soon**
+University Projects
 
-<br>
+<a href="#">Visit →</a>
 
-## 💼 Professional Portfolio
+</td>
 
-My professional portfolio contains:
+<td width="50%">
 
-- Full Stack Projects
-- Case Studies
-- UI/UX
-- Software Solutions
+## 💼 Professional Work
 
-> 🔗 **Coming Soon**
+Projects
+
+Solutions
+
+Case Studies
+
+<a href="#">Visit →</a>
 
 </td>
 
 </tr>
 </table>
-
----
