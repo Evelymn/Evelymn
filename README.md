@@ -16,24 +16,36 @@ Currently learning Linux, software architecture and building full-stack applicat
 
 <div align="center">
 
-<table>
+<table width="100">
 <tr>
 
 <td width="50%" valign="top">
+<table>
+<tr>
+<td>
 
-## 📚 Learning Journey
+## 📚learning Journey
 
 Documentation
 
 Research
 
 University Projects
+<br>
 
 <a href="#">Visit →</a>
 
 </td>
+</tr>
+</table>
+</td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+<table>
+<tr>
+<td>
 
 ## 💼 Professional Work
 
@@ -43,10 +55,16 @@ Solutions
 
 Case Studies
 
+<br>
+
 <a href="#">Visit →</a>
 
 </td>
 
+</tr>
+</table>
+
+</td>
 </tr>
 </table>
 
