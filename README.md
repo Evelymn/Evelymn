@@ -14,11 +14,12 @@ I'm passionate about understanding how software works from the user interface to
 
 Currently learning Linux, software architecture and building full-stack applications through real-world projects.
 
+<div align="center">
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📚 Learning Journey
 
@@ -32,7 +33,7 @@ University Projects
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💼 Professional Work
 
@@ -48,3 +49,5 @@ Case Studies
 
 </tr>
 </table>
+
+</div>
