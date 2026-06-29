@@ -1,31 +1,63 @@
-# 👋 H Evelyn Carolina
-> Computer Science Student
+<div align="center">
+
+# 👋 Hi, I'm Eve
+
+### Computer Science Student
+
+Building, learning and improving one project at a time.
+
+</div>
 
 ---
 
-## About Me
+<table>
+<tr>
 
-I'm currently learning Linux, software architecture and full-stack development.
+<td width="50%">
 
-I enjoy building complete software projects while documenting my learning process.
+## 📚 Learning Journey
+
+Documentation, research and projects that reflect my growth as a Computer Science student.
+
+**Coming soon...**
+
+</td>
+
+<td width="50%">
+
+## 💼 Professional Portfolio
+
+Projects, case studies and software solutions focused on real-world applications.
+
+**Coming soon...**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Current Focus
+## 👩‍💻 About Me
+
+I'm a Computer Science student passionate about understanding how software works from the user interface to the server and database.
+
+Currently learning Linux, software architecture and building full-stack applications through real projects.
+
+---
+
+## 🚀 Current Focus
 
 - 🐧 Linux Essentials
 - 🌐 Full Stack Development
 - 🏗️ Software Architecture
-- 📚 Building real-world projects
+- 📂 Building real projects
 
 ---
 
-## Featured Projects
+## ⭐ Featured Projects
 
-Coming soon...
+- 🎓 Academic Portfolio
+- 🚗 CityDrive
+- 🗑️ Recolector DevCore
 
----
-
-## GitHub Stats
-
-Coming soon... 
